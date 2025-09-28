@@ -1,4 +1,4 @@
-const apiKey = '99074d1a81ac24f95f9376a993c8cfbd';
+const apiKey = 'REPLACE WITH YOUR API KEY';
 const cityInput = document.getElementById('cityInput');
 
 cityInput.addEventListener('keypress', function (e) {
