@@ -11,8 +11,10 @@
    git clone https://github.com/The-Flutist-Programmer/weather-app.git
    ```
 4. Open the cloned folder in Visual Studio Code
-5. Right-click on the `index.html` file and select "Open with Live Server".
-6. Your default web browser will open and display the website.
-7. And that's it! You have successfully created a weather app consuming an API, Congratulations !!!!
+5. Go to the script.js file and look for the const of apiKey
+6. Replace the text with your API KEY gotten from the [OpenWeatherMap API Website](https://home.openweathermap.org/api_keys)
+7. Right-click on the `index.html` file and select "Open with Live Server".
+8. Your default web browser will open and display the website.
+9. And that's it! You have successfully created a weather app consuming an API, Congratulations !!!!
 
 See you in the next project. Happy coding 🙂!
